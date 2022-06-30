@@ -7,13 +7,13 @@ https://github.com/MoniruzzamanBappy/manufac-wine-chart.git
 after clone open with cmd  and run the following command
 <br/>
 
-```sh
+```
 npm i
 ```
 <br/>
 to run the application run the following command
 <br/>
-```sh
+```
 npm start
 ```
 <br/>
