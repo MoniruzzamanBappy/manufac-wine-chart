@@ -12,7 +12,8 @@ npm i
 ```
 <br/>
 to run the application run the following command
-```
+<br/>
+```sh
 npm start
 ```
 <br/>
