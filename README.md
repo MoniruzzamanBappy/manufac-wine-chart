@@ -11,12 +11,12 @@ after clone open with cmd  and run the following command
 npm i
 ```
 <br/>
-
+to run the application run the following command
 ```
 npm start
 ```
 <br/>
-to deploy the application run this command
+to build and deploy the application run this command and paste the build folder to the website where you want to deploy
 <br/>
 
 ```sh
