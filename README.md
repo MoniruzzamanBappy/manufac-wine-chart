@@ -12,5 +12,5 @@ to deploy the application run this command
 <br/>
 
 ```sh
-npm run deploy
+npm run build
 ```
