@@ -9,6 +9,10 @@ after clone open with cmd  and run the following command
 
 ```sh
 npm i
+```
+<br/>
+
+```
 npm start
 ```
 <br/>
