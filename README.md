@@ -1,10 +1,16 @@
 # To open the file clone this link
 
 after clone open with cmd  and run the following command
+<br/>
 
-"npm i"
-"npm start"
-
+```sh
+npm i
+npm start
+```
+<br/>
 to deploy the application run this command
+<br/>
 
-"npm run deploy"	
+```sh
+npm run deploy
+```
